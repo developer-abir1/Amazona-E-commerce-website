@@ -31,6 +31,10 @@ const useStyle = makeStyles({
     },
     cardButton: {
         color: "red"
+    },
+    section: {
+        marginTop: 10,
+        marginBottom: 10
     }
 
 })
